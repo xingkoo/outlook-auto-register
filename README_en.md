@@ -234,6 +234,7 @@ See [`scripts/ANTIBAN.md`](scripts/ANTIBAN.md).
 
 | Link | Description |
 |---|---|
+| QQ Group **1040827527** | Community chat |
 | [LINUX DO](https://linux.do/) | Community discussion |
 | [中文](README.md) · [Tiếng Việt](README_vi.md) | Translations |
 

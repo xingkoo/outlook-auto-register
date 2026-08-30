@@ -164,6 +164,7 @@ Xem [`scripts/ANTIBAN.md`](scripts/ANTIBAN.md).
 
 | Liên kết | Mô tả |
 |---|---|
+| Nhóm QQ **1040827527** | Trao đổi cộng đồng |
 | [LINUX DO](https://linux.do/) | Thảo luận cộng đồng |
 | [中文](README.md) · [English](README_en.md) | Đa ngôn ngữ |
 

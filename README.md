@@ -277,6 +277,7 @@ outlook-auto-register/
 
 | 链接 | 说明 |
 |---|---|
+| QQ 群 **1040827527** | 交流讨论 |
 | [LINUX DO](https://linux.do/) | 社区讨论 |
 | [English](README_en.md) · [Tiếng Việt](README_vi.md) | 多语言文档 |
 
